@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou trablhando com back-end
 - 🌱 Estou estudando Java
-- 👯 Contate-me no email: alexandrehenriqueepe@gmail.com
 
 <div align="center">
   <a href="https://github.com/alexandre-ia">
