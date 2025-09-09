@@ -1,6 +1,5 @@
 ## Ola
 
-- 🔭 Hoje estou trablhando com back-end
 - 🌱 Estou estudando Java
 
 <div align="center">
